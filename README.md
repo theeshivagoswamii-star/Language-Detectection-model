@@ -55,11 +55,3 @@ The model achieves deterministic consistency across evaluation test sets:
 * **Data Arrays:** Pandas, NumPy
 * **Interface & Cloud Deployment:** Streamlit Web Server
 
----
-
-## 🚀 Installation & Local Execution
-
-### 1. Clone the Space
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
